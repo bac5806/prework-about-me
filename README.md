@@ -1,4 +1,5 @@
 ## About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+This website is an about me page that serves for practice with html.
+
+https://bac5806.github.io/prework-about-me/
